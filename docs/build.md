@@ -7,7 +7,7 @@ There are multiple projects in this repository:
 * [log4j1-appenders](../log4j1-appenders): appender implementations for Log4J 1.x.
 * [log4j2-appenders](../log4j2-appenders): appender implementations for Log4J 2.x.
 * [logback-appenders](../logback-appenders): appender implementations for Logback.
-* [examples](../examples): example programs that demonstrate using the appenders.
+* [examples](../examples): example programs that demonstrate the appenders in action.
 * [integration-tests](../integration-tests): integration tests that execute several
   scenarios against each set of appenders, using actual AWS resources.
 
